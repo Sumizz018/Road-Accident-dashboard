@@ -12,3 +12,22 @@ Developed an interactive Tableau Road Accident Dashboard to analyze accident sev
 -  Which weather and road-surface conditions have the most accidents?
 -  Which road type has the highest serious casualties?
 -  Where are the major accident hotspots?
+
+## Process
+-  Collected and connected the road accident dataset to Tableau.
+-  Cleaned and prepared the data for analysis.
+-  Created calculated fields and KPI measures.
+-  Developed charts for vehicle type, weather, road surface, and road type.
+-  Created a geographical map using latitude and longitude.
+-  Added filters for year and accident severity.
+-  Combined the visualizations into an interactive dashboard.
+
+## Dashboard
+
+## Project Insights
+Total accidents and casualties decreased compared with the previous year.
+Cars account for the highest serious casualties.
+Most serious casualties occur during fine weather.
+Dry road surfaces have the highest number of serious casualties.
+Single carriageways record the highest serious casualties.
+The map highlights areas with higher concentrations of accidents.
