@@ -23,6 +23,7 @@ Developed an interactive Tableau Road Accident Dashboard to analyze accident sev
 -  Combined the visualizations into an interactive dashboard.
 
 ## Dashboard
+![Dashboard Preview](https://github.com/Sumizz018/Road-Accident-dashboard/commit/7e3700dce7b4fe79d0b414d668c12132600d2805)
 
 ## Project Insights
 Total accidents and casualties decreased compared with the previous year.
