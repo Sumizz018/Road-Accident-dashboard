@@ -23,12 +23,16 @@ Developed an interactive Tableau Road Accident Dashboard to analyze accident sev
 -  Combined the visualizations into an interactive dashboard.
 
 ## Dashboard
+
 ![Dashboard Preview](https://github.com/Sumizz018/Road-Accident-dashboard/commit/7e3700dce7b4fe79d0b414d668c12132600d2805)
 
 ## Project Insights
-Total accidents and casualties decreased compared with the previous year.
-Cars account for the highest serious casualties.
-Most serious casualties occur during fine weather.
-Dry road surfaces have the highest number of serious casualties.
-Single carriageways record the highest serious casualties.
-The map highlights areas with higher concentrations of accidents.
+-  Total accidents and casualties decreased compared with the previous year.
+-  Cars account for the highest serious casualties.
+-  Most serious casualties occur during fine weather.
+-  Dry road surfaces have the highest number of serious casualties.
+-  Single carriageways record the highest serious casualties.
+-  The map highlights areas with higher concentrations of accidents.
+
+## Final conclusion
+The Tableau dashboard converts large-scale road accident data into clear and interactive insights. It helps identify accident trends, high-risk road conditions, vehicle involvement, and geographical hotspots, supporting data-driven road safety planning and decision-making.
